@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: runners.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 51.31 s <<< FAILURE! -- in runners.TestRunner
+Ixigo Flight Booking.Book a round trip with specific cities and passengers -- Time elapsed: 50.06 s <<< FAILURE!
+org.junit.ComparisonFailure: Total amounts do not match! expected:<6[5063]> but was:<6[4815]>
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at stepdefinitions.StepDefinitions.both_total_amounts_should_match(StepDefinitions.java:184)
+	at ✽.both total amounts should match(file:///C:/Users/Hp/eclipse-workspace/IxigoFlightAutomation/src/test/resources/features/ixigo_flight_booking.feature:30)
+
