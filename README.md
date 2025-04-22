@@ -1,7 +1,7 @@
 Ixigo Automation Framework
 This is a hybrid test automation framework for Ixigo built using Selenium with Java, Cucumber BDD, JUnit, and Allure reporting. The framework is designed to automate the flight booking test cases and ensure high-quality software delivery.
-Project Structure
-The project is organized in the following structure:
+
+
 
 Explanation of the Project Structure
 src/: Contains the main code for the framework as well as the test scripts.
